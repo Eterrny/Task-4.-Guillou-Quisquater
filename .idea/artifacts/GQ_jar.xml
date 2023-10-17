@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GQ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GQ_jar</output-path>
+    <root id="archive" name="GQ.jar">
+      <element id="module-output" name="Task 4. Guillou-Quisquater" />
+    </root>
+  </artifact>
+</component>
